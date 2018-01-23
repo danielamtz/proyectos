@@ -1,0 +1,11 @@
+c:\users\temporal\documents\visual studio 2015\Projects\Proyectos\Proyectos\bin\Debug\Proyectos.exe.config
+c:\users\temporal\documents\visual studio 2015\Projects\Proyectos\Proyectos\bin\Debug\Proyectos.exe
+c:\users\temporal\documents\visual studio 2015\Projects\Proyectos\Proyectos\bin\Debug\Proyectos.pdb
+c:\users\temporal\documents\visual studio 2015\Projects\Proyectos\Proyectos\obj\Debug\Proyectos.csprojResolveAssemblyReference.cache
+c:\users\temporal\documents\visual studio 2015\Projects\Proyectos\Proyectos\obj\Debug\Proyectos.inventario.resources
+c:\users\temporal\documents\visual studio 2015\Projects\Proyectos\Proyectos\obj\Debug\Proyectos.Properties.Resources.resources
+c:\users\temporal\documents\visual studio 2015\Projects\Proyectos\Proyectos\obj\Debug\Proyectos.csproj.GenerateResource.Cache
+c:\users\temporal\documents\visual studio 2015\Projects\Proyectos\Proyectos\obj\Debug\Proyectos.exe
+c:\users\temporal\documents\visual studio 2015\Projects\Proyectos\Proyectos\obj\Debug\Proyectos.pdb
+C:\Users\TEMPORAL\Documents\Visual Studio 2015\Projects\Proyectos\Proyectos\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\TEMPORAL\Documents\Visual Studio 2015\Projects\Proyectos\Proyectos\obj\Debug\Proyectos.loginInventario.resources
