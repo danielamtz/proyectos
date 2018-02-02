@@ -22,5 +22,12 @@ namespace Proyectos
             Productos frmProductos = new Productos();
             frmProductos.Show();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            principal frmPrincipal = new principal();
+            frmPrincipal.Show();
+            Close();
+        }
     }
 }

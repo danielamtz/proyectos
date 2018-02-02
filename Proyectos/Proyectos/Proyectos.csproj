@@ -146,6 +146,7 @@
     <Content Include="imagenes\if_pencil-square-o_1608438.png" />
     <Content Include="imagenes\if_trash_115789.png" />
     <Content Include="imagenes\thin-0464_shipping_box_delivery-512.png" />
+    <Content Include="imagenes\volver-flecha_318-31564.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -16,5 +16,12 @@ namespace Proyectos
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            principal frmPrincipal = new principal();
+            frmPrincipal.Show();
+            this.Close();
+        }
     }
 }

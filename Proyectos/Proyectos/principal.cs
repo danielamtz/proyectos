@@ -21,12 +21,14 @@ namespace Proyectos
         {
             entrada frmEntrada = new entrada();
             frmEntrada.Show();
+            Close();
         }
 
         private void btnSalida_Click(object sender, EventArgs e)
         {
             Salida frmSalida = new Salida();
             frmSalida.Show();
+
         }
 
         private void btnInventario_Click(object sender, EventArgs e)
